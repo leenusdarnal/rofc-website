@@ -8,11 +8,7 @@
 	})
 </script>
 
-{#if visible}
-	<img
-		src="ROFC_LOGO.webp"
-		alt="logo"
-		width="120"
-		transition:fly={{ duration: 2000, delay: 100 }}
-	/>
-{/if}
+<!-- {#if visible} -->
+<img src="ROFC_LOGO.webp" alt="logo" width="120" class="animate-flyIn" />
+
+<!-- {/if} -->

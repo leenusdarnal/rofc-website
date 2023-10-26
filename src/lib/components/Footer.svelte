@@ -7,7 +7,7 @@
 		<img src="ROFC_LOGO.webp" alt="LOGO" class="w-36" />
 	</div>
 	<div class="w-1/2">
-		<p class="mb-10">Explore</p>
+		<p class="mb-10 animate-flyIn">Explore</p>
 		<p class="pb-2">Works</p>
 		<p>Contact</p>
 	</div>
