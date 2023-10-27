@@ -9,6 +9,13 @@
 </script>
 
 <!-- {#if visible} -->
-<img src="ROFC_LOGO.webp" alt="logo" width="120" class="animate-flyIn" />
+<a href="/">
+	<img
+		src="ROFC_LOGO.webp"
+		alt="logo"
+		width="120"
+		class="transition duration-1000 ease-in animate-in slide-in-from-top-12"
+	/>
+</a>
 
 <!-- {/if} -->

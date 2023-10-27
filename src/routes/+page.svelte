@@ -8,4 +8,3 @@
 <HeroSection />
 <ProjectSection />
 <BottomSection />
-<Footer />

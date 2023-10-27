@@ -1,18 +1,18 @@
-<section class="flex flex-wrap justify-center items-center gap-10 px-3 mt-16">
-	<div class=" w-[47%]">
+<section class="mt-16 flex flex-col gap-10 px-3 text-center">
+	<div class=" ">
 		<img src="sta_project.webp" alt="sta project" class="rounded-3xl" />
-		<p class="mt-3 ml-2">Sikkim Teachers Association</p>
+		<p class="">Sikkim Teachers Association</p>
 	</div>
-	<div class="w-[47%]">
+	<div class="">
 		<img src="chirp_project.webp" alt="sta project" class="rounded-3xl" />
-		<p class="mt-3 ml-2">Chirp</p>
+		<p class="">Chirp</p>
 	</div>
-	<div class="w-[47%]">
+	<div class="">
 		<img src="tourist_project.webp" alt="sta project" class="rounded-3xl" />
-		<p class="mt-3 ml-2">E-Tourist GUIDE</p>
+		<p class="">E-Tourist GUIDE</p>
 	</div>
-	<div class="w-[47%]">
+	<div class="">
 		<img src="college_admission_project.webp" alt="sta project" class="rounded-3xl" />
-		<p class="mt-3 ml-2">College Admission System(Demo Version)</p>
+		<p class="">College Admission System(Demo Version)</p>
 	</div>
 </section>

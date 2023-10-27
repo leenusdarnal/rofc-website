@@ -1,14 +1,16 @@
-<div class="mt-20 flex flex-row justify-evenly gap-28 p-10">
-	<div class="w=1/2">
-		<p class="mb-16 w-[26rem] text-2xl">
+<div class="mt-10 flex flex-col gap-10 px-3">
+	<div class="">
+		<p class="text-2xl font-medium">
 			We specialize in crafting exceptional digital experiences to help our clients achieve their
 			business goals.
 		</p>
-		<img src="ROFC_LOGO.webp" alt="LOGO" class="w-36" />
 	</div>
-	<div class="w-1/2">
-		<p class="mb-10 animate-flyIn">Explore</p>
-		<p class="pb-2">Works</p>
-		<p>Contact</p>
+	<div class=" flex flex-col gap-5">
+		<p class=" text-xs font-semibold">EXPLORE</p>
+		<div class="flex flex-col gap-1">
+			<p class="">Works</p>
+			<p>Contact</p>
+		</div>
 	</div>
+	<img src="ROFC_LOGO.webp" width="120" alt="LOGO" class="m-auto" />
 </div>
