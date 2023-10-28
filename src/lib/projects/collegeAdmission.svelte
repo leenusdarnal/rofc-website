@@ -2,7 +2,7 @@
 	import collegeImage from '$lib/images/college_admission_project.webp'
 </script>
 
-<div class="mt-10 flex flex-col gap-10 px-3">
+<div class="mt-10 flex flex-col gap-10 px-3 md:px-20">
 	<h1 class="text-3xl font-semibold text-cyan-600">College Admission System (Demo Version)</h1>
 	<h3 class="text-2xl">
 		College Admission System for all the New Joining College Students of Sikkim
@@ -13,13 +13,13 @@
 		all 11 colleges can be accessed from a unified platform .
 	</p>
 
-	<div class="px-2">
-		<span class="flex gap-20">
+	<div class="px-2 md:flex md:justify-between">
+		<span class="flex gap-20 md:flex-col md:gap-2">
 			<p class="font-semibold">Client</p>
 			<p class="font-light">Goverment of Sikkim</p>
 		</span>
 
-		<span class="mt-8 flex flex-row gap-16">
+		<span class="mt-8 flex flex-row gap-16 md:mt-0 md:flex-col md:gap-2">
 			<p class="font-semibold">Services</p>
 			<p class="flex flex-col font-light">
 				<span> Visual Design </span>
@@ -31,12 +31,12 @@
 			</p>
 		</span>
 
-		<span class="mt-10 flex flex-row gap-14">
+		<span class="md-gap-2 mt-10 flex flex-row gap-14 md:mt-0 md:flex-col">
 			<p class="font-semibold">Industries</p>
 			<p class="font-light">Client Industries</p>
 		</span>
 
-		<p class="mt-10 flex gap-24">
+		<p class="mt-10 flex gap-24 md:mt-0 md:flex-col md:gap-2">
 			<spam class="font-semibold">Date</spam>
 			<span class="font-light">january 2023</span>
 		</p>

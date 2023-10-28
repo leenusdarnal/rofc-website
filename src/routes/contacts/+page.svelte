@@ -1,4 +1,4 @@
-<div class="my-12 flex flex-col gap-16 px-2">
+<div class="my-12 flex flex-col gap-16 px-2 sm:px-16 md:px-20 lg:px-36">
 	<div>
 		<h1 class="text-4xl font-semibold">Let's talk</h1>
 		<p class="pt-2 text-xl font-medium">

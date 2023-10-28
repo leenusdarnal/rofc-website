@@ -5,7 +5,8 @@
 </script>
 
 <svelte:head>
-	<title>This is the Official Site of ROFC Sikkim</title>
+	<title>ROFC</title>
+	<meta name="description" content="This is the Official site of ROFC,Sikkim" />
 </svelte:head>
 <div class="font- min-h-screen bg-black p-1 text-white">
 	<Navbar />
