@@ -1,3 +1,7 @@
+<script lang="ts">
+	import LOGO from '$lib/images/ROFC_LOGO.webp'
+</script>
+
 <div class="mt-10 flex flex-col gap-10 px-3">
 	<div class="">
 		<p class="text-2xl font-medium">
@@ -12,5 +16,5 @@
 			<p>Contact</p>
 		</div>
 	</div>
-	<img src="ROFC_LOGO.webp" width="120" alt="LOGO" class="m-auto" />
+	<img src={LOGO} width="120" alt="LOGO" class="m-auto" />
 </div>
