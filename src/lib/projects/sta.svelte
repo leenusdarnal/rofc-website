@@ -12,8 +12,7 @@
 		functioning over the past 43 years. It has been tirelessly working for the welfare of t​eachers
 		including Pre-Primary Teachers (PPT), Primary Teachers (PRT), Graduate Teachers (GT), Post
 		Graduate Teachers (PGT), Head Masters (HMPS, HMJHS, HMSS), and also the Principals. With the
-		main focus to build a strong umbrella association comprising all categories of teachers from PPT
-		to Principal the association has been revamp.
+		main focus to build a strong umbrella association comprising all categories of teachers.
 	</p>
 
 	<div class="px-2 md:flex md:justify-between">
